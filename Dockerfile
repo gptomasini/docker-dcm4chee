@@ -1,9 +1,9 @@
 #
 # DCM4CHEE - Open source picture archive and communications server (PACS)
 #
-FROM ubuntu:14.04
+FROM ubuntu:18.04
 
-ENV DCM_ARC_VERSION=2.18.0
+ENV DCM_ARC_VERSION=2.18.3
 ENV DCM_ARR_VERSION=3.0.11
 ENV DCM4CHEE_HOME=/var/local/dcm4chee
 
